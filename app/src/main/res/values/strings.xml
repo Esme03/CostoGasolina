@@ -4,5 +4,7 @@
     <string name="gasolina_litro">Gasolina por Litro</string>
     <string name="litros">Litros</string>
     <string name="propina">Propina</string>
+    <string name="string_propina">Propina</string>
+    <string name="monto_total">Monto total: %s</string>
     <string name="ingresa_gasolina">Ingresa precio por litro de Gasolina</string>
 </resources>
